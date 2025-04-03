@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1680489055 source:c:\users\nate\onedrive - the university of texas at dallas\desktop\1337 projects\natedanimalgussinggame.cpp
+	<string>
+	<cctype>
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdlib>
+	<stdlib.h>
+	<cassert>
+	<algorithm>
+	<fstream>
+
+1680489055 source:c:\users\nate\onedrive - the university of texas at dallas\desktop\1337 projects\natedowanimalguessinggame\natedanimalgussinggame.cpp
+	<string>
+	<cctype>
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdlib>
+	<stdlib.h>
+	<cassert>
+	<algorithm>
+	<fstream>
+

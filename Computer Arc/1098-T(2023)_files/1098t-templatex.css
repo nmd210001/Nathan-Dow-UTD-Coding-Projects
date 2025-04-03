@@ -1,0 +1,360 @@
+/* text */
+.label {
+  font-size: 6pt;
+}
+.data {
+  font-size: 10pt;
+}
+.dataa {
+  font-size: 7pt;
+}
+.datad {
+  font-size: 8pt;
+}
+.text6 {
+  font-size: 6pt;
+}
+.text7 {
+  font-size: 7pt;
+}
+.text8 {
+  font-size: 8pt;
+}
+.text9 {
+  font-size: 9pt;
+}
+.text10 {
+  font-size: 10pt;
+}
+.text12 {
+  font-size: 12pt;
+}
+.text14 {
+  font-size: 14pt;
+}
+.text16 {
+  font-size: 16pt;
+}
+.text18 {
+  font-size: 18pt;
+}
+.text20 {
+  font-size: 20pt;
+}
+/* layout */
+.gentable {
+  padding: 0px;
+  margin: 0px;
+  border: 0px solid black;
+  border-collapse: collapse;
+}
+.t-1098tform {
+  width: 7.5in;
+ /* height: 2.71875in; */
+  font-family: Arial;
+  text-align: center;
+  vertical-align: bottom;
+  border: 0px solid black;
+}
+  .spacer {
+    width: 7.5in;
+    height: .0625in;
+    border: 0px solid black;
+    font-size: .01in;
+  }
+  .formtable {
+    width: 6.875in;
+    height: 2.65625in;
+    padding: 0px;
+    padding-left: 3px;
+    margin: 0px;
+    border: 0px solid black;
+    border-collapse: collapse;
+  }
+    .boxa {
+      width: 3.1875in;
+      height: .9375in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+
+    }
+    .box1 {
+      width: 1.3125in;
+      height: .46875in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box2{
+      width: 1.3125in;
+      height: .46875in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box2Disable, .boxDisable{
+      background-color: darkgrey;
+    }
+    .boxomblabel {
+      padding: 0px;
+      margin: 0px;
+      border-bottom: 1px solid black;
+      border-collapse: collapse;
+    }
+      .boxomb {
+        width: .9375in;
+        height: .9375in;
+        padding-left: 0px;
+        border-top: 1px solid black;
+        border-right: 1px solid black;
+        vertical-align: top;
+        text-align: center;
+        line-height: 1.05em;
+      }
+      .boxlabel {
+        width: 1.4375in;
+        height: .9375in;
+        padding-left: 0px;
+        border-bottom: 0px solid black;
+        vertical-align: middle;
+        text-align: right;
+      }
+    .boxb {
+      width: 1.625in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .boxc {
+      width: 1.59375in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box3 {
+      width: 2.625in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .boxcopy {
+      width: 1.0625in;
+      height: 1.71875in;
+      padding-left: 0px;
+      border: 1px solid black;
+      border-right: 0px solid black;
+      vertical-align: top;
+      text-align: right;
+    }
+    .boxd {
+      width: 3.1875in;
+      height: 1.09375in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box4 {
+      width: 1.3125in;
+      height: .46875in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box5 {
+      width: 1.3125in;
+      height: .46875in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box6 {
+      width: 1.3125in;
+      height: .625in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box7 {
+      width: 1.3125in;
+      height: .625in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .boxg {
+      width: 1.625in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box8 {
+      width: 1.59375in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box9 {
+      width: 1.3125in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+    .box10 {
+      width: 1.3125in;
+      height: .3125in;
+      border: 1px solid black;
+      vertical-align: top;
+      padding: 3px;
+    }
+.t-1098tlabel {
+ /* padding-top: 0.25in; */
+  width: 7.5in;
+  font-family: Arial;
+  text-align: center;
+  border: 0px solid black;
+}
+  .labeltable {
+    width: 6.875in;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    border-collapse: collapse;
+  }
+.t-1098tmsg {
+  width: 7.5in;
+ /* height: 3.34375in; */
+  font-family: Arial;
+  text-align: center;
+  vertical-align: top;
+  border: 0px solid black;
+}
+  .msgtable {
+    width: 6.875in;
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid black;
+    border-collapse: collapse;
+    vertical-align: top;
+    text-align: left;
+  }
+    .msgcell {
+      width: 100%;
+      text-align: center;
+      vertical-align: top;
+    }
+      .msgtext {
+        width: 100%;
+        text-align: left;
+    }
+    .detailtable {
+      width: 100%;
+      padding: 0px;
+      margin: 0px;
+      border: 0px solid black;
+      border-collapse: collapse;
+      vertical-align: top;
+      font-size: 6pt;
+    }
+    .detailtable8 {
+      width: 100%;
+      padding: 0px;
+      margin: 0px;
+      border: 0px solid black;
+      border-collapse: collapse;
+      vertical-align: top;
+      font-size: 8pt;
+    }
+.t-1098tperf {
+  width: 7.5in;
+  height: 1in;
+  border: 0px solid black;
+}
+.t-1098tenv {
+  width: 7.5in;
+  padding-top: .1in;
+  font-family: Arial;
+  text-align: center;
+  border: 0px solid black;
+}
+  .envtable {
+    width: 7.0625in;
+    height: 3.0875in;
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid black;
+    border-collapse: collapse;
+  }
+    .envreturn {
+      width: 4.86625in;
+      height: 1.3in;
+      text-align: left;
+      font-size: 10pt;
+      vertical-align: top;
+    }
+    .envpostal {
+      width: 2.19625in;
+      height: 1.3in;
+      text-align: right;
+      font-size: 10pt;
+      vertical-align: top;
+    }
+      .mailedfrom {
+        width: .8125in;
+        height: .8125in;
+        margin: 0px;
+        margin-right: .09375in;
+      }
+      .presort {
+        width: 1.25in;
+        height: .71875in;
+        margin: 0px;
+        padding-top: .02in;
+        padding-bottom: .02in;
+        padding-right: 0.02in;
+        padding-left: 0.02in;
+        border: 2px black solid;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 6pt;
+        font-weight: bold;
+      }
+    .envaddr {
+      width: 100%;
+      text-align: center;
+      font-size: 10pt;
+      vertical-align: top;
+    }
+      .addrtable {
+        text-align: left;
+        font-size: 10pt;
+        vertical-align: top;
+      }
+        .frontPostalLines {
+          font-family: Courier New;
+        }
+        .frontBarczip {
+          font-family: USPSTTF;
+          font-size: 15.5pt;
+        }
+  .taxinfo {
+    width: 7.0625in;
+    height: 3.0875in;
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid black;
+    border-collapse: collapse;
+    font-size: 8pt;
+  }
+
+@-moz-document url-prefix() {
+  .t-1098tlabel {
+    padding-top: .4in;
+  }
+}

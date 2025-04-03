@@ -1,0 +1,154 @@
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+
+Is it a lizard?
+no
+What was your animal?
+snake
+What is a differentiating question between lizard and snake?
+does it have 4 legs?
+What is the answer to 'does it have 4 legs?' for snake?(yes or no)
+no
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Is it a lizard?
+no
+What was your animal?
+bear
+What is a differentiating question between lizard and bear?
+does it have fur
+What is the answer to 'does it have fur' for bear?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Q: does it have fur
+no
+Is it a lizard?
+no
+What was your animal?
+rhino
+What is a differentiating question between lizard and rhino?
+is it a reptile?
+What is the answer to 'is it a reptile?' for rhino?(yes or no)
+no
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+no
+Is it a snake?
+no
+What was your animal?
+human
+What is a differentiating question between snake and human?
+is it bi-pedal?
+What is the answer to 'is it bi-pedal?' for human?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Q: does it have fur
+no
+Q: is it a reptile?
+yes
+Is it a lizard?
+no
+What was your animal?
+aligator
+What is a differentiating question between lizard and aligator?
+is it big?
+What is the answer to 'is it big?' for aligator?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+no
+Q: is it bi-pedal?
+yes
+Is it a human?
+no
+What was your animal?
+T-rex
+What is a differentiating question between human and T-rex?
+is it extinct?
+What is the answer to 'is it extinct?' for T-rex?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+no
+Q: is it bi-pedal?
+yes
+Q: is it extinct?
+yes
+Is it a T-rex?
+no
+What was your animal?
+valociraptor
+What is a differentiating question between T-rex and valociraptor?
+does it hunt in packs?
+What is the answer to 'does it hunt in packs?' for valociraptor?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Q: does it have fur
+yes
+Is it a bear?
+no
+What was your animal?
+dog
+What is a differentiating question between bear and dog?
+does it bark?
+What is the answer to 'does it bark?' for dog?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Q: does it have fur
+yes
+Q: does it bark?
+no
+Is it a bear?
+no
+What was your animal?
+wolf
+What is a differentiating question between bear and wolf?
+does it howl?
+What is the answer to 'does it howl?' for wolf?(yes or no)
+yes
+You win!
+Do you want to play again?
+yes
+Think of an animal. (hit enter to continue) PLEASE USE 'yes' OR 'no' FOR ALL YES OR NO QUESTIONS
+Q: does it have 4 legs?
+yes
+Q: does it have fur
+no
+Q: is it a reptile?
+no
+Is it a rhino?
+yes
+I win!
+Do you want to play again?

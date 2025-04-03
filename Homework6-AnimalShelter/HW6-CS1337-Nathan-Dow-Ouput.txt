@@ -1,0 +1,271 @@
+Total number of animals created: 14
+Total number of cats created: 8
+Total number of dogs created: 4
+Total number of other animals: 2
+
+Here are all the animals:
+-------------------------------
+Moan
+I am a Cat
+My name is Morris
+I am 9 years old.
+I weigh 3 pounds
+My breed is 
+I am the color yellow
+My health is good
+I am animal number 1
+
+Mew
+I am a Cat
+My name is Mittens
+I am 1 years old.
+I weigh 1 pounds
+My breed is Calico
+I am the color brown and white
+My health is good
+I am animal number 2
+
+
+I am a Cat
+My name is Junior
+I am 1 years old.
+I weigh 2 pounds
+My breed is Tabby
+I am the color black
+My health is 
+I am animal number 3
+
+Mew
+I am a Cat
+My name is Priss
+I am -1 years old.
+I weigh -1 pounds
+My breed is 
+I am the color white
+My health is good
+I am animal number 4
+
+Hello
+I am a bird
+My name is 
+I am -1 years old.
+I weigh -1 pounds
+My breed is Mynah
+I am the color black
+My health is 
+I am animal number 5
+
+Hiss
+I am a Cat
+My name is Charcoal
+I am 1 years old.
+I weigh 2 pounds
+My breed is Siamese
+I am the color white and yellow
+My health is good
+I am animal number 6
+
+
+I am a Dog
+My name is Bitsy
+I am 4 years old.
+I weigh 6 pounds
+My breed is Minx
+I am the color grey
+My health is good
+I am animal number 7
+
+
+I am a Cat
+My name is Charmin
+I am -1 years old.
+I weigh 3 pounds
+My breed is 
+I am the color white
+My health is parvo
+I am animal number 8
+
+
+I am a hamster
+My name is Chippy
+I am -1 years old.
+I weigh 1 pounds
+My breed is 
+I am the color tan
+My health is 
+I am animal number 9
+
+Bark
+I am a Dog
+My name is Fido
+I am 5 years old.
+I weigh 7 pounds
+My breed is 
+I am the color spotted
+My health is good
+I am animal number 10
+
+
+I am a Cat
+My name is Red
+I am 2 years old.
+I weigh -1 pounds
+My breed is Heinz
+I am the color redddish
+My health is parvo
+I am animal number 11
+
+Purr
+I am a Cat
+My name is Cute Stuff
+I am 1 years old.
+I weigh 2 pounds
+My breed is 
+I am the color yellow
+My health is good
+I am animal number 12
+
+
+I am a Dog
+My name is Rex
+I am 3 years old.
+I weigh 5 pounds
+My breed is 
+I am the color brown and white
+My health is good
+I am animal number 13
+
+Woof
+I am a Dog
+My name is Spot
+I am -1 years old.
+I weigh 8 pounds
+My breed is Dalmation
+I am the color spotted
+My health is 
+I am animal number 14
+
+Here are all the cats:
+-------------------------------
+Moan
+I am a Cat
+My name is Morris
+I am 9 years old.
+I weigh 3 pounds
+My breed is 
+I am the color yellow
+My health is good
+I am cat number 1
+
+Mew
+I am a Cat
+My name is Mittens
+I am 1 years old.
+I weigh 1 pounds
+My breed is Calico
+I am the color brown and white
+My health is good
+I am cat number 2
+
+
+I am a Cat
+My name is Junior
+I am 1 years old.
+I weigh 2 pounds
+My breed is Tabby
+I am the color black
+My health is 
+I am cat number 3
+
+Mew
+I am a Cat
+My name is Priss
+I am -1 years old.
+I weigh -1 pounds
+My breed is 
+I am the color white
+My health is good
+I am cat number 4
+
+Hiss
+I am a Cat
+My name is Charcoal
+I am 1 years old.
+I weigh 2 pounds
+My breed is Siamese
+I am the color white and yellow
+My health is good
+I am cat number 5
+
+
+I am a Cat
+My name is Charmin
+I am -1 years old.
+I weigh 3 pounds
+My breed is 
+I am the color white
+My health is parvo
+I am cat number 6
+
+
+I am a Cat
+My name is Red
+I am 2 years old.
+I weigh -1 pounds
+My breed is Heinz
+I am the color redddish
+My health is parvo
+I am cat number 7
+
+Purr
+I am a Cat
+My name is Cute Stuff
+I am 1 years old.
+I weigh 2 pounds
+My breed is 
+I am the color yellow
+My health is good
+I am cat number 8
+
+Here are all the dogs:
+-------------------------------
+
+I am a Dog
+My name is Bitsy
+I am 4 years old.
+I weigh 6 pounds
+My breed is Minx
+I am the color grey
+My health is good
+I am dog number 1
+
+Bark
+I am a Dog
+My name is Fido
+I am 5 years old.
+I weigh 7 pounds
+My breed is 
+I am the color spotted
+My health is good
+I am dog number 2
+
+
+I am a Dog
+My name is Rex
+I am 3 years old.
+I weigh 5 pounds
+My breed is 
+I am the color brown and white
+My health is good
+I am dog number 3
+
+Woof
+I am a Dog
+My name is Spot
+I am -1 years old.
+I weigh 8 pounds
+My breed is Dalmation
+I am the color spotted
+My health is 
+I am dog number 4
+
